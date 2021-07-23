@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinayvyas911
+- 👋 Hi, I’m Vinay Vyas.
 - 👀 I’m interested in Full Stack Development,Technical Content Writing and Competitive Programming.
 
 <!---
