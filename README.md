@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Vinay Vyas.
 - 👀 I’m interested in Full Stack Development,Technical Content Writing and Competitive Programming.
  
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinay-vyas911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinayvyas911" height="30" width="40" /></a>
-<a href="https://leetcode.com/in/vinay911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vinayvyas911" height="30" width="40" /></a>
+<a href="https://leetcode.com/vinay911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vinayvyas911" height="30" width="40" /></a>
 
 <a href="https://www.codechef.com/vinay911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="vinayvyas911" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vinay-vyas2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vinayvyas2" height="30" width="40" /></a>
